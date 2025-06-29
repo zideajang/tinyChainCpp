@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+docs
+ollama_cpp_client
